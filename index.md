@@ -2,7 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Extraction of Single Repeating Pattern Unit
+
+The algorithm mimics human perception by sliding images to detect periodicity. A reference image remains fixed while another slides, computing L2 loss across RGB channels. Average loss is calculated for overlapping regions, identifying midpoints. The distance between consecutive midpoints during ascent reveals the repeating pattern unit accurately.
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
