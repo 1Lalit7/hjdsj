@@ -8,7 +8,7 @@ The algorithm mimics human perception by sliding images to detect periodicity. A
 
 <!--<img src="images/rp3.jpg" width="100"><img src="images/rp3_anim_left_to_right.gif" width="150"><img src="images/rp3_anim_top_to_bottom.gif" width="150"><img src="images/rp3_pattern.jpg" width="50">-->
 
-<img src="images/rp3.jpg" alt="First Image" style="width: 100px; height: auto; margin: auto; padding-bottom: 100px;"><img src="images/rp3_anim_left_to_right.gif" style="width: 150px; height: auto;"><img src="images/rp3_anim_top_to_bottom.gif" style="width: 150px; height: auto;"><img src="images/rp3_pattern.jpg" alt="Last Image" style="width: 50px; height: auto; margin: auto; padding-bottom: 20px;">
+<img src="images/rp3.jpg" alt="First Image" style="width: 100px; height: auto; margin: auto; padding-bottom: 92px;"><img src="images/rp3_anim_left_to_right.gif" style="width: 180px; height: auto;"><img src="images/rp3_anim_top_to_bottom.gif" style="width: 180px; height: auto;"><img src="images/rp3_pattern.jpg" alt="Last Image" style="width: 50px; height: auto; margin: auto; padding-bottom: 120px;">
 
 
 
