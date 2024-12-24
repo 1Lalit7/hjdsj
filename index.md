@@ -10,6 +10,8 @@ The algorithm mimics human perception by sliding images to detect periodicity. A
 
 <img src="images/rp3.jpg" alt="First Image" style="width: 100px; height: auto; margin: auto; padding-bottom: 92px;"><img src="images/rp3_anim_left_to_right.gif" style="width: 175px; height: auto;"><img src="images/rp3_anim_top_to_bottom.gif" style="width: 175px; height: auto;"><img src="images/rp3_pattern.jpg" alt="Last Image" style="width: 50px; height: auto; margin: auto; padding-bottom: 120px;">
 
+<a href="[https://www.linkedin.com/in/lalit-kumar-04122215b/](https://repeating-pattern-extractor.streamlit.app/)">Try it now</a>
+
 
 
 
