@@ -14,6 +14,12 @@ The algorithm mimics human perception by sliding images to detect periodicity. A
 
 ---
 
+### AI Model for Classifying AI-Generated vs. Human-Written Text
+
+This project focuses on detecting AI-generated text using a combination of traditional ML models, sentence embeddings, and deep learning architectures (LSTM, RoBERTa, T5). The goal is to improve text authenticity, verification and mitigate misinformation risks.
+
+---
+
 ### Interpretable Machine Learning Model: Parital Dependence Plots, LIME and SHAP
 
 A significant barrier to ML's adoption in many fields is the lack of interpretability of black box models. In this project, I use several techniques to gain insights into various models. 
@@ -21,6 +27,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 <img src="images/interpretable.png"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/PDP-white?logo=PDP)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
+
 
 
 
