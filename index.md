@@ -17,6 +17,8 @@ The algorithm mimics human perception by sliding images to detect periodicity. A
 ### AI Model for Classifying AI-Generated vs. Human-Written Text
 
 This project focuses on detecting AI-generated text using a combination of traditional ML models, sentence embeddings, and deep learning architectures (LSTM, RoBERTa, T5). The goal is to improve text authenticity, verification and mitigate misinformation risks.
+<a href="https://human-ai-text-detector.streamlit.app/">Try Now</a>
+
 
 ---
 
